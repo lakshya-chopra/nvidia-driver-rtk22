@@ -9,6 +9,7 @@ wget https://us.download.nvidia.com/XFree86/Linux-x86_64/550.127.05/NVIDIA-Linux
 Blacklist Nouveau
 
 [ref 1](https://askubuntu.com/questions/1463568/why-remover-the-nouveau-drivers)
+
 [ref 2](https://docs.nvidia.com/ai-enterprise/deployment/vmware/latest/nouveau.html)
 
 ```shell
